@@ -125,7 +125,7 @@ Simplest Model, the Poisson Regression Linear Model performed well with lowest R
 ### :money_with_wings: Betting Results
 Our Betting Simulation Model is built taking into consideration 3 things mainly, that no bet can be placed twice on the same match, Risk and Ratio values.
 
-Optimal Ratio (ratio of estimated probability to bookmakers probability) and Risk (risk of betting) values are in the range [1.17, 1.23] and [0.4, 0.45], respectively. For a €5 wager per bet, the overall profit from this strategy is in the range of €43 - €67.  Similarly, by doubling the wager to €10 per bet, we obtain a profit in the range of €83 - €235.
+Optimal Ratio (ratio of estimated probability to bookmakers probability) and Risk (risk of betting) values are in the range [1.17, 1.23] and [0.4, 0.45], respectively. For a €5 wager per bet, the overall profit from this strategy is in the range of €43 - €67.  Similarly, by doubling the wager to €10 per bet, we obtain a profit in the range of €83 - €135.
 <img src="https://github.com/KurtDarmanin/project_21207174/blob/main/Images/Result2.png?raw=true">
 
 Over the weeks of 6 to 38, with the Ratio = 1.17 and Risk=0.4 we make a profit of approximately €67 as shown in the betting simulation below.
