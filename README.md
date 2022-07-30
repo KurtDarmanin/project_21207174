@@ -25,7 +25,7 @@ The different model notebooks included in this repository has already been execu
 1. Linear Poisson Regression Model : **Code_Reg_Poiss.py**
 2. Linear Negative Binomial Regression Model : **Code_Reg_NB.py** 
 3. Non-Linear Poisson Regression Model : **Code_DNN.py**
-- **Data Set :** 
+- **Data:** 
 1. Clean Dataset for Model : **model_data.csv**
 2. Data for Betting Model Simulation : **betting_data.csv**
 3. Variables explanation : **variables.docx** 
